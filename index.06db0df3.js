@@ -133,7 +133,7 @@ var e=globalThis,t={},o={},n=e.parcelRequire5feb;function i(){let e=document.cre
                     <div class="divfield-title">Presion\xe1 jugar
 y eleg\xed: piedra, papel o tijera antes de que pasen los 3 segundos.</div>
                         <button class="button-1">!JUGAR\xa1</button>
-                        <button class="button-reset">Reiniciar Puntajes</button>
+                        
                 </div>
                 <div class= "imagenes">
                         <div class="piedra"><img src="${x}"></div>
